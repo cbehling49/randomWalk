@@ -1,7 +1,6 @@
 """
 Project Name: Random Walk
 Author: Cody Behling
-Due Date: 12/05/2020
 Course: CS1400-X01
 
 This program is designed to receive user inputs to determine how random points should be plotted in a turtle window.
